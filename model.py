@@ -10,3 +10,6 @@ def model2():
 
 def model3():
     print("This is Model 3")
+
+
+print("Model 2 is giving the best accuracy")
