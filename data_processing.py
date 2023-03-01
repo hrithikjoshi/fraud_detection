@@ -9,3 +9,9 @@ def add(a,b):
 def multiplication(a,b):
     d = a*b
     return b
+
+def division(a,b):
+    e = a/b
+    return e
+
+print("division function")
